@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+header{
+     background-color: darkblue;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+} 
+header b{
+    color: white;
+}
+header a{
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+
+}
+h1 {
+    text-align: center;
+     background-color:  rgb(143, 216, 216);
+     color: darkblue;
+}
+ 
+
+  footer p{
+     border: 3px solid grey;
+}
+nav a{
+    border: 2px solid darkblue;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    background-color: darkblue;
+    padding: 2px;
+    margin: 2px;
+}
+ .pc{
+    background-color: rgb(212, 113, 100);
+    border-radius: 10px;
+    color: white
+}
+.pl{
+    background-color: rgb(212, 113, 100);
+    border-radius: 10px;
+    color: white;
+}
+.third{
+    background-color: rgb(212, 113, 100);
+    border-radius: 10px;
+    color: white;
+}
+.like{
+    background-color: rgb(212, 113, 100);
+    border-radius: 10px;
+    color: white;
+}
+.discount{
+    color: blue;
+}
+.n1ke{
+    border: 2px solid skyblue;
+    border-radius: 10px;
+}
+ .HTB{
+    color: blue;
+}
+.co{
+    border: 1px solid blue;
+    text-decoration: none;
+    color: blue;
+}
+ 
